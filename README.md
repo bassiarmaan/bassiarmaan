@@ -2,7 +2,7 @@
 
 i'm a computer science and data science major at UCLA!
 
-to learn more about me, check out my [personal website](https://armaanb.com/)
+to learn more about me, check out my [personal website]([https://armaanb.com/](https://www.armaan.work/))
 
 <!--
 **bassiarmaan/bassiarmaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
